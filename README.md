@@ -11,4 +11,7 @@ Reproducing the results of the article: D. Siracusa et al, "Resource Allocation 
 
 ## Topology
 
-![alt text](https://github.com/alaelson/reproducing1/blob/master/figures/spanish_backbone.jpg?raw=true "Spanish backbone network")
+![topology]
+
+[topology]: https://github.com/alaelson/reproducing1/blob/master/figures/spanish_backbone.jpg?raw=true "Spanish backbone network"=516x140
+
